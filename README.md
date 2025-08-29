@@ -6,7 +6,7 @@
 
 Q-Pilot is a WhatsApp-based solution that brings Mumbai Metro information directly to commuters without requiring any app downloads. Built to complement existing transportation tools, Q-Pilot provides real-time metro timetables, station information, and route planning through the familiar WhatsApp interface.
 
-## Documentation & Resources
+## Documentation & Socials
 
 - [Documentation (GitBook)](https://anisha.gitbook.io/q-pilot/)
 - [Demo Video](#)
