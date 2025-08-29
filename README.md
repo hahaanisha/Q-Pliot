@@ -50,6 +50,7 @@ Q-Pilot serves as your co-pilot for every metro ride, providing:
 ### Core Technologies
 - **WhatsApp Cloud API** – Messaging backbone
 - **qRaptor** – Multi-agent orchestration for AI-driven workflows
+- **Render** - API Deploying service
 
 
 ### qRaptor Integration
@@ -62,7 +63,6 @@ qRaptor helps orchestrate multiple agents working together:
 - Send location to find nearest metro station
 - Text station name to get upcoming trains
 - Ask for routes between two stations
-- Request fare information
 
 ### Example Interactions
 <p align="center">
