@@ -10,7 +10,7 @@ Q-Pilot is a WhatsApp-based solution that brings Mumbai Metro information direct
 
 - [Documentation (GitBook)](https://anisha.gitbook.io/q-pilot/)
 - [Demo Video](#)
-- [Linkedin Post](#)
+- [Linkedin Post](https://www.linkedin.com/posts/anisha-shankar-_whatsappbot-smartcommute-urbanmobility-activity-7367409338249789440-JFlW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRRPDoBVYB6_5xhK2CfJyPKygmNG0FEIfc)
 - [Instagram Post](#)
 
 ## Problem Statement
@@ -29,6 +29,12 @@ Q-Pilot serves as your co-pilot for every metro ride, providing:
 - **Unified Hub** – Timetable + routes + fares in one platform
 - **Multilingual Support** – English, Hindi, Marathi
 - **No App, No Website** – Just WhatsApp
+
+## Flow of Q-Pliot:
+
+<p align="center">
+ <img src="readme_img/Flow.png" alt="Q-Pilot Flow Diagram" width="900" />
+</p>
 
 ## Key Features
 
@@ -66,7 +72,7 @@ qRaptor helps orchestrate multiple agents working together:
 
 ### Example Interactions
 <p align="center">
-  <img src="readme_img/demo1.png" alt="Demo" width="800" />
+  <img src="readme_img/demo.png" alt="Demo" width="600" />
 </p>
 
 ## Impact & Benefits
