@@ -9,9 +9,9 @@ Q-Pilot is a WhatsApp-based solution that brings Mumbai Metro information direct
 ## Documentation & Socials
 
 - [Documentation (GitBook)](https://anisha.gitbook.io/q-pilot/)
-- [Demo Video](#)
+- [Demo Video](https://youtu.be/KkXVhbu1EXA)
 - [Linkedin Post](https://www.linkedin.com/posts/anisha-shankar-_whatsappbot-smartcommute-urbanmobility-activity-7367409338249789440-JFlW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRRPDoBVYB6_5xhK2CfJyPKygmNG0FEIfc)
-- [Instagram Post](#)
+- [Instagram Post](https://www.instagram.com/reel/DN-puJ8FRCv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## Problem Statement
 
